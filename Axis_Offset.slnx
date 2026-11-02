@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Axis_Offset.csproj" Id="2eb4895a-ba82-4a1c-ae10-0584f8918778">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
